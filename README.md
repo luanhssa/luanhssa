@@ -31,7 +31,7 @@
   </a>
   -->
   <a href="https://github.com/luanhssa">
-    <img width="55%" align="right" alt="Luan Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=luanhssa&show_icons=true&theme=dark&hide_border=true" />
+    <img width="50%" align="right" alt="Luan Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=luanhssa&show_icons=true&theme=dark&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
