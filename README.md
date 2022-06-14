@@ -16,9 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/luanhssa">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=luanhssa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhssa&layout=compact&langs_count=7&theme=dark"/>
-  <img heigh="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luanhssa&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanhssa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanhssa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luanhssa&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
