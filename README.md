@@ -1,8 +1,8 @@
 ## Hi, I'm Luan Almeida, a Developer 🚀 from Brazil.
 
 
-- 🔭 I’m currently working for [Youse Seguradora](https://github.com/youse-seguradora)
 <!--
+- 🔭 I’m currently working for [Youse Seguradora](https://github.com/youse-seguradora)
 - 🔭 I’m also a member of a developers cooperative [Kunlatek](https://github.com/kunlatek)
 - ⚡ Sometimes I stream live code or some games on [Twitch](https://www.twitch.tv/luanhssa)
 -->
